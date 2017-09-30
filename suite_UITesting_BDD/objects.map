@@ -1,0 +1,21 @@
+:MainWindow.btnAddition_QPushButton	{name='btnAddition' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnClear_QPushButton	{name='btnClear' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnDecimalPoint_QPushButton	{name='btnDecimalPoint' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnDivision_QPushButton	{name='btnDivision' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnEvaluation_QPushButton	{name='btnEvaluation' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnMultiplication_QPushButton	{name='btnMultiplication' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNegativity_QPushButton	{name='btnNegativity' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum0_QPushButton	{name='btnNum0' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum1_QPushButton	{name='btnNum1' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum2_QPushButton	{name='btnNum2' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum3_QPushButton	{name='btnNum3' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum4_QPushButton	{name='btnNum4' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum5_QPushButton	{name='btnNum5' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum6_QPushButton	{name='btnNum6' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum7_QPushButton	{name='btnNum7' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum8_QPushButton	{name='btnNum8' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnNum9_QPushButton	{name='btnNum9' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnPercentage_QPushButton	{name='btnPercentage' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.btnSubtraction_QPushButton	{name='btnSubtraction' type='QPushButton' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow.label_QLabel	{name='label' type='QLabel' visible='1' window=':MainWindow_MainWindow'}
+:MainWindow_MainWindow	{name='MainWindow' type='MainWindow' visible='1'}
