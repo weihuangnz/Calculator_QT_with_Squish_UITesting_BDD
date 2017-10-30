@@ -18,6 +18,7 @@ MainWindow::MainWindow(QWidget *parent) :
     setWindowFlags(Qt::CustomizeWindowHint|Qt::WindowCloseButtonHint|Qt::WindowMinimizeButtonHint);
 
     connect(ui->btnClear,           SIGNAL(clicked(bool)),this,SLOT(clear()));
+    //connect(ui->btnClear,           &QPushButton::click,this,&MainWindow::clear);
     connect(ui->btnNegativity,      SIGNAL(clicked(bool)),this,SLOT(negationClicked()));
     connect(ui->btnPercentage,      SIGNAL(clicked(bool)),this,SLOT(percentageClicked()));
     connect(ui->btnDecimalPoint,    SIGNAL(clicked(bool)),this,SLOT(decimalPointClicked()));
